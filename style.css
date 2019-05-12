@@ -1,25 +1,29 @@
-
+body{
+  background-color: beige;
+}
 
 
 #myHead{
-color:red;
-font-size:30px;
-border-style: solid;
-border-radius: 2px;
-border-color: red;
+  text-align: center;  
+  color:red;
+  font-size:30px;
+  border-style: solid;
+  border-radius: 7px;
+  border-color: red;
 }
 #p1{
-color:blue;
+  color:greenyellow;
 }
 #p2{
-color:green;
+  color:blue;
 }
 #p3{
-color:blue;
+  color:green;
 }
 #p4{
-  border: 10px;
+  text-align: center;
+  border-style: dotted;
   border-radius: 2px;
   border-color: red;
-color:red;
+  color:red;
 }
